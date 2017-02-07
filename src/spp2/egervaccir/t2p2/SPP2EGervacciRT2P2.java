@@ -15,6 +15,7 @@ public class SPP2EGervacciRT2P2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        //Erick Eduardo Gervacci Romero A01410809 (IIS)
         //Programa que analice dos números enteros.
         System.out.println("Bienvenido!");
         op();
